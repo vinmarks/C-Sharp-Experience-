@@ -1,1 +1,1 @@
-Projects completed for SCP 285 Intro to Object Oriented Programming 
+Projects completed for SCP 285 Intro to Object Oriented Programming at Syracuse University 
